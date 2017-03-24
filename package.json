@@ -1,0 +1,22 @@
+{
+  "name": "tblr_bot",
+  "version": "1.0.0",
+  "description": "A telegram bot that can search and get content from tumblr for you.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "tumblr"
+  ],
+  "author": "ZjHOU",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.15.3",
+    "javascript-state-machine": "^2.4.0",
+    "telegraf": "^3.6.7",
+    "tumblr.js": "^1.1.1"
+  }
+}
