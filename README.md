@@ -1,6 +1,10 @@
 # ![profile](/docs/tbot_profile.png)
 **tBot**, a **t**elegram bot who can search and get content from **t**umblr.
 
+## bot state
+
+- offline
+- developing
 
 ## config
 
