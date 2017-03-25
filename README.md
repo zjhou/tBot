@@ -1,5 +1,6 @@
-# tBot
+# tBot ![profile](/docs/tbot_profile.png)
 A telegram bot who can search and get content from tumblr.
+
 
 ## config
 
