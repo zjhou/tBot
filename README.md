@@ -14,7 +14,7 @@ Set following environment variables:
 
 You can get your bot token from bot father. `ADMIN_ID` is your telegram account id,
 here, I get it from `ctx.from.id`. tBot can recognize you by id so that it can provide you
-private service, just expand your command sets in the `route.js` file.
+private service, just expand your command sets in the `router.js` file.
 
 The bot search content based on google custom search engine(google cse),  read google
 api page for more details.
