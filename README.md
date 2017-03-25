@@ -1,5 +1,5 @@
 # ![profile](/docs/tbot_profile.png)
-**tBot**, a telegram bot who can search and get content from tumblr.
+**tBot**, a **t**elegram bot who can search and get content from **t**umblr.
 
 
 ## config
